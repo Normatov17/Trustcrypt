@@ -5,8 +5,11 @@ module.exports = {
     extend: {
       maxWidth: {
         1340: '1340px',
+        696: '696px',
+        660: '660px',
         576: '576px',
         555: '555px',
+        328: '328pxpx',
       },
 
       colors: {

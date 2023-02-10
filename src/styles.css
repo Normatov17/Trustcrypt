@@ -8,3 +8,25 @@
     background: rgba(255, 255, 255, 0.1);
     border-radius: 1000px;
 }
+
+
+.cardgrid{
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 18px;
+}
+
+.border-ful{
+    background: rgba(255, 255, 255, 0.1);
+}
+
+
+.register{
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 8px;
+}
+
+.input{
+    background: rgba(255, 255, 255, 0.02);
+border: 1px solid rgba(255, 255, 255, 0.05);
+border-radius: 4px;
+}
