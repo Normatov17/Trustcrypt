@@ -4,13 +4,19 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        1340: '1340px'
+        1340: '1340px',
+        576: '576px',
+        555: '555px',
       },
 
       colors: {
         brands: {
           ochyashil: '#0FAE96'
         }
+      },
+
+      fontFamily: {
+        inter: 'Inter'
       }
     },
   },
